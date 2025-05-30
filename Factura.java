@@ -1,4 +1,4 @@
-public class factura {
+public class Factura {
     public static void  generarFactura(Pago pago) {
         // Lógica para generar una factura
     }
