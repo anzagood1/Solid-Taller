@@ -1,13 +1,8 @@
 public class Compra{
     private Pago pago;
-    private PagoPayPal pagoPayPal;
     private List articulos;
 
     public Compra(Pago pago){
-        //Inicializacion
-    }
-
-    public Compra(PagoPayPal pagoPayPal){
         //Inicializacion
     }
 
